@@ -1,0 +1,101 @@
+.main-head {
+    font-size: 3em;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 1.5em;
+}
+
+.sub-head {
+    font-size: 2em;
+    line-height: 1em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+}
+
+.cards {
+    margin-top: 4rem;
+    max-width: 50%;
+}
+
+.card {
+    height: 100%;
+    min-width: 250px;
+}
+
+.card-img-top {
+    height: 60%;
+}
+
+.nav-item {
+    font-size: 1.4em;
+    margin-right: 1em;
+}
+
+.navbar-brand {
+    height: 70px;
+}
+
+.navbar-brand-img {
+    height: 100%;
+}
+
+.active {
+    font-weight: 700;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+}
+
+.add-content {
+    margin-top: 5%;
+    width: 30%;
+}
+
+.btn-light {
+    background-color: rgb(230,230,230);
+    width: 30%;
+}
+
+.exp-repl-content {
+    margin-top: 2%;
+    width: 50%;
+}
+
+.input-group-exp-repl {
+    width: 70%;
+}
+
+.input-group-addon {
+    font-size: 1.2rem;
+}
+
+.form-control-exp-repl {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.add-btn {
+    margin-top: 4%;
+}
+
+.exp-repl-head {
+    font-size: 3em;
+    font-weight: 500;
+    margin-top: 0.5em;
+}
+
+.table-date {
+    width: 10%;
+    font-weight: bold;
+}
+
+thead {
+    font-weight: bold;
+}
