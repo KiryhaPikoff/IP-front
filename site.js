@@ -48,6 +48,9 @@ form.addEventListener("submit", function(event) {
           'Операция была добавлена в ваш бюджет',
           'success'
         )
+        setTimeout(function () {
+            window.location.href = "index.html";
+        }, 1000);
       } else if (result.dismiss === Swal.DismissReason.cancel) {
         swalWithBootstrapButtons.fire(
           'Отменено!',
